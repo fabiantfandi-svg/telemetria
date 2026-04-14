@@ -1,0 +1,28 @@
+# Python (Archivos compilados)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno Virtual (¡No subirlo nunca!)
+venv/
+env/
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Firebase / Google Cloud (Credenciales sensibles)
+# Si tu archivo de llaves se llama diferente, cámbialo aquí
+serviceAccountKey.json
+*.json
+
+# VS Code / Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs y Temporales
+*.log
+celerybeat-schedule

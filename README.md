@@ -68,7 +68,8 @@ datos, notificaciones, etc.
 
 ## 📈 Uso
 
-Consumir la API mediante herramientas como Postman o desde el frontend
+Consumir la API mediante herramientas como Postman 
+
 en Angular.
 
 ## 👨‍💻 Autor
